@@ -13,6 +13,8 @@
   ],
   "author": "Ezell Frazier",
   "license": "MIT",
+  "homepage": "https://github.com/lynellf/nba-greatest-players-list",
+  "bugs": "https://github.com/lynellf/nba-greatest-players-list/issues",
   "devDependencies": {
     "@types/jest": "^27.0.2",
     "@types/lodash": "^4.14.175",
